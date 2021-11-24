@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4muriuki from Nairobi, Kenya.
+- 👋 Hi, I’m Joseph Muriuki from Nairobi, Kenya.
 - 👀 My current interest is in web development 
 - 🌱 I’m currently learning Html , CSS, Javascript and React.
 - 💞️ I’m looking to collaborate on open source projects. 
